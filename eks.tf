@@ -1,6 +1,6 @@
 terraform {
   cloud {
-	organization = "Example-Inc"
+	organization = "mysocietymanager"
 	workspaces {
   	name = "aws-eks"
 	}
